@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Halimat, I am a business, sales and finacial analyst and i aspire to one day work as a financial analyst in the oil and gas sector
+My name is Halimat, I am a business, sales and finacial analyst currently self learning all the required tools and documentating as I go.
 
 Here are some ideas to get you started:
 
@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... sql, excel and power bi and statistics
 - 👯 I’m looking to collaborate on ... a project, could be a sales project or a project in the oil and gas space
 - 💬 Ask me about ... anything data
-- 📫 How to reach me: ... @o0keowoo on X
-- 📧 Email: halimathammed2002@gmail.com
+- 📫 How to reach me: ... https://www.linkedin.com/in/halimat-hammed-0851b6241?utm_source=share_via&utm_content=profile&utm_medium=member_ios on LinkedIn 
+- 📧 Email: halimathammed1@outlook.com
 -->
